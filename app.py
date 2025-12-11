@@ -131,7 +131,7 @@ def recommend(movie):
 
 # ----------------- Streamlit UI ----------------- #
 
-st.title("🎬 Movie Recommender System")
+st.title("Movie Recommender System")
 
 selected_movie_name = st.selectbox(
     "Select a movie to get recommendations:",
