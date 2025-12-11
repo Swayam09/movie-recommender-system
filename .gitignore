@@ -1,1 +1,2 @@
+echo "movie_dict.pkl" >> .gitignore
 echo "similarity.pkl" >> .gitignore
