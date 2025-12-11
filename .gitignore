@@ -1,0 +1,1 @@
+echo "similarity.pkl" >> .gitignore
